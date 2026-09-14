@@ -19,7 +19,7 @@
 ### 👋 About Me
 
 ⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences
-🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Node.js**
+🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Next.js**
 🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems
 💼 **Availability** | Open for freelance projects & full-time opportunities
 🌍 **Location** | Egypt *(Available for remote work worldwide)*
@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
