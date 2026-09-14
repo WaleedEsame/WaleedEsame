@@ -1,15 +1,26 @@
 <svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" rx="10" fill="url(#bg-gradient)" stroke="rgba(167, 38, 38, 0.4)" stroke-width="1.5" />
+
   <style>
     .title {
       font-family: Georgia, 'Times New Roman', serif;
       font-style: italic;
-      fill: rgb(167, 38, 38);
+      fill: rgb(215, 55, 55);
     }
   </style>
-  <text x="50%" y="55%" text-anchor="middle" class="title" font-size="42">
+
+  <text x="50%" y="52%" text-anchor="middle" class="title" font-size="38">
     @Waleed Esame
   </text>
-  <text x="50%" y="80%" text-anchor="middle" class="title" font-size="18" opacity="0.85">
+
+  <text x="50%" y="78%" text-anchor="middle" class="title" font-size="16" opacity="0.8">
     Where design meets code...
   </text>
 </svg>
