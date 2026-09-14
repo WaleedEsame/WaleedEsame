@@ -14,8 +14,14 @@
 
 ### 🛠️ Tech Stack
 
+**✅ Currently Using**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+**🔜 قريباً / Learning Next**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark" />
 </p>
 
 ---
