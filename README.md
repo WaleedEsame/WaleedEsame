@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 About Me
+### @ Bio
 
 ⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences
 🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Node.js**
