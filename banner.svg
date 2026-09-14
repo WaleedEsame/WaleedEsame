@@ -6,10 +6,7 @@
       fill: rgb(167, 38, 38);
     }
   </style>
-  <text x="50%" y="55%" text-anchor="middle" class="title" font-size="42">
-    @Waleed Esame
-  </text>
-  <text x="50%" y="80%" text-anchor="middle" class="title" font-size="18" opacity="0.85">
+  <text x="50%" y="55%" text-anchor="middle" class="title" font-size="36">
     Where design meets code...
   </text>
 </svg>
