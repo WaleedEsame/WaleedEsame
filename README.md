@@ -18,7 +18,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 </p>
+
 ---
+
 **🔜 Learning Next**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark" />
