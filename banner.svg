@@ -1,0 +1,16 @@
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+    .title {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      fill: rgb(167, 38, 38);
+    }
+  </style>
+  <text x="50%" y="55%" text-anchor="middle" class="title" font-size="42">
+    @Waleed Esame
+  </text>
+  <text x="50%" y="80%" text-anchor="middle" class="title" font-size="18" opacity="0.85">
+    Where design meets code...
+  </text>
+</svg>
