@@ -50,6 +50,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/YOUR-X-HERE">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
 </p>
