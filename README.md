@@ -2,7 +2,7 @@
 
 ---
 
-### @ Bio
+### 👋 About Me
 
 ⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences  
 🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Next.js**  
@@ -23,16 +23,17 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=WaleedEsame&show_icons=true&theme=tokyonight&hide_border=true&title_color=A72626&icon_color=A72626" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedEsame&theme=tokyonight&hide_border=true&ring=A72626&fire=A72626&currStreakLabel=A72626" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WaleedEsame&show_icons=true&theme=dark&hide_border=true&title_color=A72626&icon_color=A72626&text_color=ffffff&bg_color=0d1117" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedEsame&theme=dark&hide_border=true&background=0d1117&ring=A72626&fire=A72626&currStreakLabel=A72626" />
 </p>
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 GitHub Top Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WaleedEsame&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedEsame&layout=compact&theme=dark&hide_border=true&title_color=A72626&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
