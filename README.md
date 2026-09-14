@@ -8,13 +8,14 @@
 🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems  
 💼 **Availability** | Open for freelance projects & full-time opportunities  
 🌍 **Location** | Egypt *(Available for remote work worldwide)*  
+🌐 **Portfolio** | [View my work](https://YOUR-PORTFOLIO-HERE.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
