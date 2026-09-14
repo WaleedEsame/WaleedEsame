@@ -1,54 +1,46 @@
-  .bg { fill: #0b0d10; }
-  
-  /* Grid / Tech Background details */
-  .grid-line { stroke: #1e2638; stroke-width: 0.5; opacity: 0.4; }
-  .border-line { stroke: #e63946; stroke-width: 1.5; opacity: 0.6; }
-  .corner-accent { fill: #e63946; }
+<svg width="100%" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&amp;family=Inter:wght@300;400&amp;display=swap');
 
-  /* Typography */
-  .top-tag {
-    font-family: 'Fira Code', monospace;
-    font-size: 16px;
-    fill: #8b949e;
-    letter-spacing: 3px;
-    text-anchor: middle;
-  }
+    .bg { fill: #000000; }
+    .w-letter {
+      font-family: 'Caveat', cursive;
+      font-size: 110px;
+      font-weight: 700;
+      fill: #A72626;
+    }
+    .rest-name {
+      font-family: 'Caveat', cursive;
+      font-size: 95px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .subline {
+      font-family: 'Caveat', cursive;
+      font-size: 60px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .tagline {
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      font-weight: 300;
+      letter-spacing: 3px;
+      fill: rgba(255, 255, 255, 0.6);
+    }
+  </style>
 
-  .main-text-w {
-    font-family: 'Caveat', cursive;
-    font-size: 110px;
-    font-weight: 700;
-    fill: #ff2a4b;
-  }
+  <rect class="bg" width="100%" height="100%" rx="12" />
 
-  .main-text-rest {
-    font-family: 'Caveat', cursive;
-    font-size: 110px;
-    font-weight: 700;
-    fill: #ffffff;
-  }
-
-  .sub-text {
-    font-family: 'Inter', sans-serif;
-    font-size: 22px;
-    font-weight: 300;
-    fill: #8b949e;
-    letter-spacing: 1.5px;
-    text-anchor: middle;
-  }
-
-  .code-bracket {
-    font-family: 'Fira Code', monospace;
-    font-size: 18px;
-    fill: #ff2a4b;
-  }
-</style>
-
-<!-- Outer Glow Filter -->
-<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-  <feGaussianBlur stdDeviation="8" result="blur" />
-  <feComposite in="SourceGraphic" in2="blur" operator="over" />
-</filter>
+  <g transform="translate(500, 110)" text-anchor="middle">
+    <text y="-10">
+      <tspan class="w-letter">W</tspan>
+      <tspan class="rest-name">aleed</tspan>
+    </text>
+  </g>
 
 
-Where design meets code...
+  <text x="50%" y="195" text-anchor="middle" class="tagline">
+    Where design meets code...
+  </text>
+</svg>
