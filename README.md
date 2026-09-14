@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 About Me
+### @ Bio
 
 ⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences  
 🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Next.js**  
@@ -23,17 +23,19 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaleedEsame&show_icons=true&theme=dark&hide_border=true&title_color=A72626&icon_color=A72626&text_color=ffffff&bg_color=0d1117" />
-  <br/>
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=WaleedEsame&show_icons=true&theme=dark&hide_border=true&title_color=A72626&icon_color=A72626&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedEsame&theme=dark&hide_border=true&background=0d1117&ring=A72626&fire=A72626&currStreakLabel=A72626" />
 </p>
 
 ---
 
-### 🏆 GitHub Top Languages
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedEsame&layout=compact&theme=dark&hide_border=true&title_color=A72626&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WaleedEsame&theme=react-dark&bg_color=0d1117&color=A72626&line=A72626&point=ffffff&hide_border=true" />
 </p>
 
 ---
