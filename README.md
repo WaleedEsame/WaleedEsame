@@ -20,22 +20,16 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=WaleedEsame&show_icons=true&theme=dark&hide_border=true&title_color=A72626&icon_color=A72626&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/followers/WaleedEsame?label=Followers&style=for-the-badge&color=A72626&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/WaleedEsame?label=Total%20Stars&style=for-the-badge&color=A72626&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/search/WaleedEsame/WaleedEsame/main?label=Profile%20Views&style=for-the-badge&color=A72626&labelColor=0d1117" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedEsame&theme=dark&hide_border=true&background=0d1117&ring=A72626&fire=A72626&currStreakLabel=A72626" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WaleedEsame&theme=react-dark&bg_color=0d1117&color=A72626&line=A72626&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +40,7 @@
   <a href="mailto:ws163786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/WaleedEsame">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
