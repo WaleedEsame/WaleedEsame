@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark" />
 </p>
 
+---
+
 ### 📈 GitHub Metrics
 
 <p align="center">
