@@ -2,30 +2,49 @@
   <img src="./banner.svg" alt="Waleed Esame" width="600"/>
 </p>
 
-Frontend developer crafting clean, purposeful interfaces where every pixel matters. I focus on building smooth, responsive user experiences with modern web technologies.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:A72626&height=200&section=header&text=Hello%20World&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Waleed%20Esame%20-%20Frontend%20Developer&descAlignY=60&descSize=16"/>
 
-- 🔭 Currently working on frontend projects with React
-- 🌱 Learning and exploring new frontend tools & frameworks
-- 💼 Freelance / Open to opportunities
-- 📍 Based in Egypt
+---
+
+### 👋 About Me
+
+⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences  
+🛠️ **Tech Stack** | Modern Web Development with **React**, **TypeScript** & **Node.js**  
+🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems  
+💼 **Availability** | Open for Freelance projects & Full-time Opportunities  
+🌍 **Location** | Egypt *(Available for Remote Work Worldwide)*
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 📫 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws163786@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&theme=dark" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaleedEsame&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaleedEsame&show_icons=true&theme=dark&hide_border=true&title_color=A72626&icon_color=A72626&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedEsame&theme=dark&hide_border=true&background=0d1117&ring=A72626&fire=A72626&currStreakLabel=A72626" width="48%"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WaleedEsame&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:ws163786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
