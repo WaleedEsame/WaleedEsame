@@ -19,8 +19,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 </p>
 
-**⏳ Coming Soon**
----
+**🔜 Learning Next**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark" />
+</p>
 
 ### 📈 GitHub Metrics
 
