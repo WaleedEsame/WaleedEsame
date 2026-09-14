@@ -1,28 +1,14 @@
-<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-style: italic;
-      fill: rgb(167, 38, 38);
-    }
-  </style>
-  <text x="50%" y="55%" text-anchor="middle" class="title" font-size="42">
-    @Waleed Esame
-  </text>
-  <text x="50%" y="80%" text-anchor="middle" class="title" font-size="18" opacity="0.85">
-    Where design meets code...
-  </text>
-</svg>
+![Waleed Esame Banner](./banner.svg)
 
 ---
 
-### 👋 About Me
+### @ Bio
 
-⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences
-🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Next.js**
-🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems
-💼 **Availability** | Open for freelance projects & full-time opportunities
-🌍 **Location** | Egypt *(Available for remote work worldwide)*
+⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences  
+🛠️ **Tech Stack** | Modern web development with **React**, **TypeScript** & **Next.js**  
+🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems  
+💼 **Availability** | Open for freelance projects & full-time opportunities  
+🌍 **Location** | Egypt *(Available for remote work worldwide)*  
 
 ---
 
