@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="./banner.svg" alt="Waleed Esame" width="600"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:A72626&height=200&section=header&text=Hello%20World&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Waleed%20Esame%20-%20Frontend%20Developer&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5C1616,100:A72626&height=220&section=header&text=Waleed%20Esame&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Pixel-Perfect%20Digital%20Experiences&descAlignY=58&descSize=18&stroke=A72626&strokeWidth=1"/>
 
 ---
 
-### 👋 About Me
+### @ About Me
 
 ⚡ **Frontend Engineer** | Architecting pixel-perfect interfaces & high-performance web experiences  
 🛠️ **Tech Stack** | Modern Web Development with **React**, **TypeScript** & **Node.js**  
 🚀 **Growth** | Continuous learner exploring advanced frontend architectures & backend systems  
 💼 **Availability** | Open for Freelance projects & Full-time Opportunities  
 🌍 **Location** | Egypt *(Available for Remote Work Worldwide)*
-
 ---
 
 ### 🛠️ Tech Stack
