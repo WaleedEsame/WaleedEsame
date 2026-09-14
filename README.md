@@ -1,7 +1,4 @@
 ![Waleed Esame Banner](./banner.svg)
-<p align="center">
-  <img src="banner.svg?v=2" alt="Waleed Banner" width="100%">
-</p>
 ---
 
 ### @ Bio
