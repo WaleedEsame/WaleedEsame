@@ -1,26 +1,99 @@
-<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
+    <!-- تدرج الخلفية الداكنة الفخمة -->
+    <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080a10" />
+      <stop offset="50%" stop-color="#121625" />
+      <stop offset="100%" stop-color="#05070a" />
     </linearGradient>
+
+    <!-- تدرج وهج الإطار والزخارف -->
+    <linearGradient id="accent-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a72626" />
+      <stop offset="50%" stop-color="#ff4444" />
+      <stop offset="100%" stop-color="#a72626" />
+    </linearGradient>
+
+    <!-- نمط الشبكة التقنية (Grid) لإعطاء عمق -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(167, 38, 38, 0.04)" stroke-width="1" />
+    </pattern>
+
+    <!-- تأثير الوهج والنور للنصوص والإطار -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#ff2222" flood-opacity="0.5"/>
+    </filter>
   </defs>
 
-  <rect width="100%" height="100%" rx="10" fill="url(#bg-gradient)" stroke="rgba(167, 38, 38, 0.4)" stroke-width="1.5" />
+  <!-- الخلفية الأساسية -->
+  <rect width="100%" height="100%" rx="16" fill="url(#cyber-gradient)" />
+  
+  <!-- تطبيق نمط الشبكة التقنية -->
+  <rect width="100%" height="100%" rx="16" fill="url(#grid)" />
+
+  <!-- الزخارف الجانبية والتفاصيل التقنية الدقيقة (Cyber tech bits) -->
+  <!-- زاوية علوية يسارية -->
+  <path d="M 30 50 L 30 30 L 70 30" fill="none" stroke="url(#accent-glow)" stroke-width="2.5" opacity="0.6"/>
+  <rect x="35" y="35" width="4" height="4" fill="#ff4444" opacity="0.5" />
+  <circle cx="30" cy="80" r="1.5" fill="#a72626" opacity="0.5"/>
+  <circle cx="30" cy="100" r="1.5" fill="#a72626" opacity="0.3"/>
+  <circle cx="30" cy="120" r="1.5" fill="#a72626" opacity="0.1"/>
+
+  <!-- زاوية سفلية يمينية -->
+  <path d="M 970 210 L 970 230 L 930 230" fill="none" stroke="url(#accent-glow)" stroke-width="2.5" opacity="0.6"/>
+  <rect x="961" y="221" width="4" height="4" fill="#ff4444" opacity="0.5" />
+
+  <!-- نقاط ضوئية وجزئيات متوهجة عشوائية في الخلفية (Background particles) -->
+  <circle cx="150" cy="70" r="2" fill="#ff2222" opacity="0.3" />
+  <circle cx="120" cy="180" r="1.5" fill="#ff4444" opacity="0.25" />
+  <circle cx="850" cy="80" r="2" fill="#ff2222" opacity="0.4" />
+  <circle cx="880" cy="190" r="1" fill="#ff4444" opacity="0.2" />
+  <circle cx="500" cy="40" r="1.5" fill="#ff2222" opacity="0.3" />
+
+  <!-- خطوط التزيين والوهج الممتد -->
+  <line x1="80" y1="30" x2="250" y2="30" stroke="rgba(167, 38, 38, 0.2)" stroke-width="1" />
+  <line x1="750" y1="230" x2="920" y2="230" stroke="rgba(167, 38, 38, 0.2)" stroke-width="1" />
+
+  <!-- الإطار الخارجي المتوهج الفخم -->
+  <rect x="15" y="15" width="970" height="230" rx="14" fill="none" stroke="url(#accent-glow)" stroke-width="1.5" filter="url(#glow)" opacity="0.45" />
+  <rect x="15" y="15" width="970" height="230" rx="14" fill="none" stroke="rgba(167, 38, 38, 0.8)" stroke-width="1" />
 
   <style>
     .title {
-      font-family: Georgia, 'Times New Roman', serif;
+      font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
       font-style: italic;
-      fill: rgb(215, 55, 55);
+      font-weight: 700;
+      fill: #ffffff;
+    }
+    .subtitle {
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 18px;
+      font-weight: 300;
+      letter-spacing: 2px;
+      fill: #ff5555;
+    }
+    .tagline {
+      font-family: monospace;
+      font-size: 13px;
+      fill: rgba(255, 255, 255, 0.3);
+      letter-spacing: 4px;
     }
   </style>
 
-  <text x="50%" y="52%" text-anchor="middle" class="title" font-size="38">
+  <!-- وسم برمجي جمالي علوي -->
+  <text x="50%" y="55" text-anchor="middle" class="tagline">&lt; FRONTEND ENGINEER /&gt;</text>
+
+  <!-- النص الرئيسي المتوهج والمميز -->
+  <text x="50%" y="138" text-anchor="middle" class="title" font-size="52" filter="url(#glow)" fill="#ff3333">
     @Waleed Esame
   </text>
-
-  <text x="50%" y="78%" text-anchor="middle" class="title" font-size="16" opacity="0.8">
+  <!-- نص فوقي ناصع يعطي بُعداً وعمقاً للإضاءة -->
+  <text x="50%" y="138" text-anchor="middle" class="title" font-size="52" fill="#ffffff">
+    @Waleed Esame
+  </text>
+  
+  <!-- النص الفرعي -->
+  <text x="50%" y="185" text-anchor="middle" class="subtitle" opacity="0.9">
     Where design meets code...
   </text>
 </svg>
